@@ -19,3 +19,11 @@ Plans to master:
 - CSS3
 - JavaScript
 - Git
+
+## Code examples
+
+```js
+function multiply(a, b){
+  return a * b;
+}
+```
