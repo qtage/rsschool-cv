@@ -1,7 +1,7 @@
-## John Doe
+# John Doe
 
-### Contact information
+## Contact information
 
-Location: Belarus
-Email: nwter@yandex.by
-GitHub: [qtage](https://github.com/qtage)
+- Location: Belarus
+- Email: nwter@yandex.by
+- GitHub: [qtage](https://github.com/qtage)
