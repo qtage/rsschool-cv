@@ -31,3 +31,7 @@ function multiply(a, b){
 ## Education
 
 Higher technical education
+
+## English language
+
+A1/A2 Beginner (according to the online test at www.efset.org)
