@@ -1,2 +1,2 @@
 # rsschool-cv
-https://qtage.github.io/rsschool-cv/cv
+https://qtage.github.io/rsschool-cv/
